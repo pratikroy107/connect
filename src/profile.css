@@ -1,0 +1,26 @@
+.profile{
+  width: 90%;
+  max-width: 400px;
+  border: 1px solid #dcdcdc;
+  padding: 20px;
+  text-align: center;
+}
+
+.profile p {
+  text-align: left;
+}
+
+.profile > span{
+  color: blue;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+.discuss {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(218, 32, 32);
+  background-color: rgba(255, 208, 0, 0.391);
+  border-radius: 5px;
+  font-weight: 700;
+}
